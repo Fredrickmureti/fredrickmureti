@@ -1,8 +1,7 @@
-<img src="https://media.istockphoto.com/id/1503858430/vector/website-software-development-concept-web-design-site-and-mobile-app-on-laptop-testing-on.jpg?s=612x612&w=0&k=20&c=k8ckKsgOrPPxohAA_ywg2VXZzdCPptEbOlleRV8Kb7c=" width="900" height="auto">
+<img src="https://media.istockphoto.com/id/1503858430/vector/website-software-development-concept-web-design-site-and-mobile-app-on-laptop-testing-on.jpg?s=612x612&w=0&k=20&c=k8ckKsgOrPPxohAA_ywg2VXZzdCPptEbOlleRV8Kb7c=" width="1000" height="auto">
 <h1 align="center">#Hi there👋, I'm I'm Fredrick Mureti 👋</h1>
 <h3 align="center">A Kenyan Software Developer and Data Scientist Combining AI, ML, and Full-Stack Development to Power Innovation and Growth</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrickmureti" alt="fredrickmureti" /></a> </p>
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
 <p align="left"> <a href="https://twitter.com/fredrickmureti" target="blank"><img src="https://img.shields.io/twitter/follow/fredrickmureti?logo=twitter&style=for-the-badge" alt="fredrickmureti" /></a> </p>
 
