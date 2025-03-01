@@ -1,7 +1,7 @@
 # **👋 Hi there, I'm Fredrick Mureti!**  
 ### **💻 Software Developer | 📊 Data Scientist | 🤖 AI & ML Enthusiast**  
 
-![Banner](https://media.istockphoto.com/id/1503858430/vector/website-software-development-concept-web-design-site-and-mobile-app-on-laptop-testing-on.jpg?s=612x612&w=0&k=20&c=k8ckKsgOrPPxohAA_ywg2VXZzdCPptEbOlleRV8Kb7c=)  
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />  
 
 I'm a Kenyan **Full-Stack Developer** and **Economics & Statistics** graduate passionate about **AI, Machine Learning, and Data Science**. My goal is to leverage **cutting-edge technology** to develop impactful solutions that drive business growth and innovation.  
 
