@@ -7,7 +7,7 @@ I'm a Kenyan **Full-Stack Developer** and **Economics & Statistics** graduate pa
 
 ## **🌐 Connect with Me:**  
 📩 Email: **[fredrickmureti612@gmail.com](mailto:fredrickmureti612@gmail.com)**  
-🌍 Website: **[devfredrick.me](https://devfredrick.me)**  
+🌍 Website: **[devfredrick.me](https://www.mureti.dev)**  
 🔗 LinkedIn: **[Fredrick Mureti](https://www.linkedin.com/in/fredrickmureti/)**  
 🐦 Twitter: **[@fredrickmureti](https://twitter.com/fredrickmureti)**  
 🤖 Stack Overflow: **[Fredrick Mureti](https://stackoverflow.com/users/21428142/fredrick-mureti/)**  
